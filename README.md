@@ -1,6 +1,9 @@
-# yes_no_app
+# Chat App
 
-A new Flutter project.
+A new Flutter chat project.
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="200" alt="Nest Logo" /></a>
+</p>
 
 ## Getting Started
 
